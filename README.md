@@ -1,66 +1,17 @@
-# Awesome SwiftUI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-  * [General](#general)
-    + [Apple](#apple)
-    + [WWDC](#wwdc)
-    + [Newsletter](#newsletter)
-    + [Book](#book)
-    + [Course](#course)
-    + [Learning](#learning)
-  * [Articles](#articles)
-    + [Implementation](#implementation)
-    + [Layout system](#layout-system)
-  * [Libraries](#libraries)
-    + [Extensions](#extensions)
-    + [Image](#image)
-    + [Inspection](#inspection)
-    + [Property wrappers](#property-wrappers)
+    roperty wrapperskghhccicijhlh](#property-wrappers)
   * [UI](#ui)
     + [Animation](#animation)
-    + [Button](#button)
+    + [Button](#button)hohchclohchclljgzcozzxououu pu
     + [Calendar](#calendar)
     + [Chart](#chart)
     + [Color](#color)
-    + [Clock](#clock)
-    + [Countdown](#countdown)
-    + [Confetti](#confetti)
-    + [Form](#form)
-    + [Grid](#grid)
-    + [Icon](#icon)
-    + [Indicator](#indicator)
-    + [Keyboard](#keyboard)
-    + [Loading](#loading)
-    + [Onboarding](#onboarding)
-    + [Page](#page)
-    + [Pull to refresh](#pull-to-refresh)
-    + [Toast](#toast)
-    + [Slider](#slider)
-    + [Window](#window)
-    + [Others](#others)
-  * [Open source apps](#open-source-apps)
-    + [iOS](#ios)
-    + [macOS](#macos)
-
-## General
-
-### Apple
-
-- [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) - Create beautiful, dynamic apps faster than ever before.
-- [iOS App Dev with SwiftUI](https://developer.apple.com/tutorials/app-dev-training/) - Create apps using SwiftUI and Xcode. Build Scrumdinger, an app that keeps track of daily scrums
-- [Creating a macOS App](https://developer.apple.com/tutorials/swiftui/creating-a-macos-app) - After creating a version of the Landmarks app for watchOS, it’s time to set your sights on something bigger: bringing Landmarks to the Mac
-- [Creating Performant Scrollable Stacks](https://developer.apple.com/documentation/swiftui/creating-performant-scrollable-stacks)
-- [Aligning Views Across Stacks](https://developer.apple.com/documentation/swiftui/aligning-views-across-stacks)
-- [Building Layouts with Stack Views](https://developer.apple.com/documentation/swiftui/building-layouts-with-stack-views)
-
-### WWDC
-
-- [WWDC2019 SwiftUI Essentials](https://netsplit.com/swiftui) - Take your first deep-dive into building an app with SwiftUI. Learn about Views and how they work 
-- [WWDC0291 Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226/) - Learn how to connect your data as dependencies while keeping the UI fully predictable and error free
+    + [Clock](#clockg free
 - [WWDC2020 Data Essentials in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10040/) - Discover @State and @Binding, two powerful tools that can preserve and seamlessly update your Source of Truth
 
 ### Newsletter
-
-- [SwiftUI Weekly](http://weekly.swiftwithmajid.com/) - The curated collection of links about SwiftUI. Delivered every Monday
+b
+- [SwiftUI Weekly](http://weekly.swiftwithmajid.com/) - The curated collection of links about SwiftUI. Delivered every Mondayl
 - [iOS Dev Weekly](https://iosdevweekly.com/) - Curated by Dave Verwer and published every Friday
 - [iOS Goodies](https://ios-goodies.com/) - weekly iOS newsletter curated by Marius Constantinescu
 
